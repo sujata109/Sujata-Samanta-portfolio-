@@ -1,15 +1,15 @@
-# Avhishikta Maiti – Portfolio Website
+# Sujata Samanta – Portfolio Website
 
-This repository contains the source code for **Avhishikta Maiti’s personal portfolio website**, built to showcase skills, projects, certifications, and experience in **Python and Data Science**. The website is designed with a modern, responsive layout and deployed on **Vercel**.
+This repository contains the source code for **Sujata Samanta’s personal portfolio website**, built to showcase skills, projects, certifications, and experience in **Python and HTML**. The website is designed with a modern, responsive layout and deployed on **Vercel**.
 
 🌐 **Live Website:**  
-https://avhishikta-maiti-portfolio.vercel.app/
+https://sujata-samanta-portfolio.vercel.app/
 
 ---
 
 ## 📌 About the Project
 
-This portfolio serves as a professional online presence, highlighting academic background, technical skills, projects, certificates, and contact information. It is suitable for recruiters, collaborators, and anyone interested in Avhishikta’s work in data science and programming.
+This portfolio serves as a professional online presence, highlighting academic background, technical skills, projects, certificates, and contact information. It is suitable for recruiters, collaborators, and anyone interested in Sujata’s work in Python and programming.
 
 ---
 
@@ -48,11 +48,11 @@ Follow these steps to run the project locally.
 
 1. Clone the repository:
    ```bash
-   https://github.com/Avhishikta/Avhishikta-Maiti-portfolio-.git
+   https://github.com/sujata109/Sujata-Samanta-portfolio-.git
    ``` 
 2. Navigate to the project directory:
    ```bash
-   cd avhishikta-maiti-portfolio
+   cd Sujata-Samanta-Portfolio-
    ```
 3. Install dependencies:
    ```bash
@@ -80,7 +80,8 @@ Follow these steps to run the project locally.
    ```
 ## 📫 Contact
 
-- Email: avhishiktamaiti@gmail.com
-- Portfolio: https://avhishikta-maiti-portfolio.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/avhishikta-maiti-249ab5303/
-- GitHub: https://github.com/Avhishikta
+- Email: samantasujata804@gmail.com
+- Portfolio: https://sujata-samanta-portfolio.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/sujata-samanta-5671bb342/
+- GitHub: https://github.com/sujata109/
+
